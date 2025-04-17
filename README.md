@@ -83,9 +83,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SupremeNexas/SupremeNexas/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SupremeNexas/SupremeNexas/blob/output/ocean.gif" />
