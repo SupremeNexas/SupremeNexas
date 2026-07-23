@@ -72,25 +72,6 @@
 </tr>
 </table>
 
-###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupremeNexas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupremeNexas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SupremeNexas&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SupremeNexas&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SupremeNexas&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SupremeNexas/SupremeNexas/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SupremeNexas/SupremeNexas/blob/output/ocean.gif" />
-  <img alt="github-snake" src="https://github.com/SupremeNexas/SupremeNexas/blob/output/github-snake.svg" />
-</picture>
-
 
 ## 📊 GitHub Stats
 
