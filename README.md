@@ -97,11 +97,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=SupremeNexas&icon=1&color=3)](https://visitcount.itsvg.in)
-
-###
----
-[![](https://visitcount.itsvg.in/api?id=SupremeNexas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
