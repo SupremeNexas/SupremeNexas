@@ -91,6 +91,23 @@
   <img alt="github-snake" src="https://github.com/SupremeNexas/SupremeNexas/blob/output/github-snake.svg" />
 </picture>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="32%" src="https://github-readme-stats.shion.dev/api?username=SupremeNexas&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="32%" src="https://streak-stats.demolab.com/?user=SupremeNexas&theme=gotham&hide_border=true" />
+  <img width="32%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SupremeNexas&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SupremeNexas/SupremeNexas/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SupremeNexas/SupremeNexas/blob/output/ocean.gif" />
+    <img alt="GitHub Snake" src="https://github.com/SupremeNexas/SupremeNexas/blob/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupremeNexas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
