@@ -2,7 +2,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=SupremeNexas&color=green">
 </p>
- 
+  
 🔭 I'm currently working on SocialQuery: A Social media insight engine<br>👬 I'm looking to collaborate on Website development<br>🤝🏻 I'm looking to learn Crypto-currency and blockchain<br>🔗 Lets connect
  
 ###
