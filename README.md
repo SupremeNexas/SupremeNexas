@@ -3,7 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=SupremeNexas&color=green">
 </p>
   
-🔭 I'm currently working on SocialQuery: A Social media insight engine<br>👬 I'm looking to collaborate on Website development<br>🤝🏻 I'm looking to learn Crypto-currency and blockchain<br>🔗 Lets connect
+🔭 I'm currently working on AI/ML projects and PulsarNav AI for deep-space navigation 🚀<br>
+💻 I'm building full-stack web applications and AI-powered systems<br>
+🤝🏻 I'm looking to collaborate on AI, ML & software development projects<br>
+🌐 Let's connect and build something impactful
  
 ###
 
