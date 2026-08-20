@@ -2,7 +2,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=SupremeNexas&color=green">
 </p>
-  
+   
 🔭 I'm currently working on AI/ML projects and PulsarNav AI for deep-space navigation 🚀<br>
 💻 I'm building full-stack web applications and AI-powered systems<br>
 🤝🏻 I'm looking to collaborate on AI, ML & software development projects<br>
